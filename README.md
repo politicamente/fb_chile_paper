@@ -9,3 +9,7 @@ Additional analysis  for "Campaign types and district types"
 5.  Dsitribución de porcentaje de **post totales por distrito**. (con mediana): *Andrea*
 6.  **Mapas de deployment** por distrito: *Daniel*
 7.  **Pormedio y varianza de NSE** por distrito: *Naim*
+
++ Para cada info, además de gráficos, hacer cuadros de resumenes estadísticos.
+
+
